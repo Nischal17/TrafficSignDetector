@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sat Oct 26 19:52:33 2024
+# Process ID: 1244
+# Current directory: C:/Users/vinee/Vivado Projects/Final_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent43792 C:\Users\vinee\Vivado Projects\Final_Project\Final_Project.xpr
+# Log file: C:/Users/vinee/Vivado Projects/Final_Project/vivado.log
+# Journal file: C:/Users/vinee/Vivado Projects/Final_Project\vivado.jou
+# Running On: LAPTOP-HANVO9H8, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16478 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/vinee/Vivado Projects/Final_Project/Final_Project.xpr}
+update_compile_order -fileset sources_1
